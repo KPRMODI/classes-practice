@@ -77,7 +77,7 @@ const problems = [
 
     class Penguin extends Bird{
       fly(){
-        log("penguins cant fly")
+        log("Penguins can't fly")
         }
       }
 
